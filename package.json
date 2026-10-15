@@ -1,0 +1,15 @@
+{
+  "name": "checkpoint-app",
+  "version": "1.0.0",
+  "description": "Checkpoint Azure App Service",
+  "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
